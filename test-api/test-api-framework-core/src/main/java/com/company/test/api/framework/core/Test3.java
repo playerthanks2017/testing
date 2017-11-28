@@ -11,5 +11,7 @@ public class Test3 {
 	private String test4 = "334";
 	
 	private String test5 = "2222222222222222";
+	
+	private String test6 = "2222222222222222";
 
 }
