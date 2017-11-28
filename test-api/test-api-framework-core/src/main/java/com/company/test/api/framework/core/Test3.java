@@ -8,6 +8,8 @@ public class Test3 {
 	
 	private String test3 = "334";
 	
-	private String test4 = "334";	
+	private String test4 = "334";
+	
+	private String test5 = "334";
 
 }
