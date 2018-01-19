@@ -1,7 +1,5 @@
 package com.company.test.api.framework.core;
 
-public class Test2 {
+public class Test6 {
 
-	private int aaa;
-	
 }
