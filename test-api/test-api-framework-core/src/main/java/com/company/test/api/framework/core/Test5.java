@@ -5,4 +5,6 @@ public class Test5 {
 	
 	private String test4;
 	
+	private String test5;
+	
 }
