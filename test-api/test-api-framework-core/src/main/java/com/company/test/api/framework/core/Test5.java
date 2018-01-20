@@ -7,4 +7,6 @@ public class Test5 {
 	
 	private String test5;
 	
+	private String test6;
+	
 }
