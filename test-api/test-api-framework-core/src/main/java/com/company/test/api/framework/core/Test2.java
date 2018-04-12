@@ -2,14 +2,14 @@ package com.company.test.api.framework.core;
 
 public class Test2 {
 
-	private String test1;
+	private String test2;
 	
 	public String getTest() {
-		return test1;
+		return test2;
 	}
 
 	public void setTest(String test) {
-		this.test1 = test;
+		this.test2 = test;
 	}
 
 }
