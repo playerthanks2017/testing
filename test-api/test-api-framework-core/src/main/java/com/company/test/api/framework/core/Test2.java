@@ -4,5 +4,7 @@ public class Test2 {
 
 
 	private int sssssssssss2221111;
+	
+	private int aaaaa;
 
 }
