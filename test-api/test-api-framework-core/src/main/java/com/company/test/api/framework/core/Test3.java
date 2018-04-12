@@ -2,7 +2,7 @@ package com.company.test.api.framework.core;
 
 public class Test3 {
 
-	private String test = "222";
+	private String test = "444";
 
 	private String test2 = "222";
 	
