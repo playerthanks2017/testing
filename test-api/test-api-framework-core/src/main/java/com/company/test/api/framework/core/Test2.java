@@ -2,17 +2,14 @@ package com.company.test.api.framework.core;
 
 public class Test2 {
 
-
-<<<<<<< HEAD
-	private int sssssssssss2221111;
+	private String test1;
 	
-	private int aaaaa;
-=======
-	private int sssssssssss222222221; 
+	public String getTest() {
+		return test1;
+	}
 
-	private int sssssssssss2221111;
->>>>>>> branch 'master' of https://github.com/playerthanks2017/testing.git
+	public void setTest(String test) {
+		this.test1 = test;
+	}
 
-	private int aaa = 10;
-	
 }
